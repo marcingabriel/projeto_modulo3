@@ -74,29 +74,24 @@ section.imagem > p{
 }
 
 section#img01{
-    background-image: url('../imagens/id01_novo.png');
+    background-image: url('../imagens/img01.png');
     background-position: left center ;
    
 }
 
 section#img02{
-    background-image: url('../imagens/pain.jpg');
+    background-image: url('../imagens/img02.jpg');
     background-position: center ;
    
 }
+
 section#img03{
-    background-image: url('../imagens/id01.jpg');
+    background-image: url('../imagens/img03.jpg');
     background-position: center ;
     
 }
 section#img04{
-    background-image: url('../imagens/madara.jpg');
-    background-position: center ;
-    
-}
-section#img05{
-    background-image: url('../imagens/fundo_header.png');
-    background-attachment: local;
+    background-image: url('../imagens/img05.png');
     background-position: center ;
     
 }
